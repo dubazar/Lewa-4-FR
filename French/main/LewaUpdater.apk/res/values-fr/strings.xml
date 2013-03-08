@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="storage_override" />
+    <string name="storage_recovery_override" />
+    <string name="app_name">Updater</string>
+    <string name="discover_new_version">Discover new version:</string>
+    <string name="new_version">New version:</string>
+    <string name="cur_version">Current version:</string>
+    <string name="check_update">Check update</string>
+    <string name="install_from_sd">Install from sdcard</string>
+    <string name="error_empty">It has no package in this folder</string>
+    <string name="select_file">Please select the file</string>
+    <string name="download_failure">Download failure</string>
+    <string name="file_list_title">Install from sdcard</string>
+    <string name="conn_error">Connect to lewa server error, please connect later</string>
+    <string name="net_error">Net error, please open the network</string>
+    <string name="error_no_msg">No message(T_T)</string>
+    <string name="new_version_error">You have the latest version and not found the new version</string>
+    <string name="new_version_error_twice">You have the latest version and not found the new version</string>
+    <string name="new_version_error_third">You have the latest version and not found the new version</string>
+    <string name="new_version_error_fourth">囧</string>
+    <string name="new_version_error_fifth">=_=凸</string>
+    <string name="curr_version_error">Your current version is too old, please upgrade from sdcard</string>
+    <string name="download_file_exist">Update zip is existed</string>
+    <string name="net_data_error">Server data error</string>
+    <string name="currversion_old_error">Your current version is too old</string>
+    <string name="upgrade_now">Upgrade now</string>
+    <string name="upgrade_later">Upgrade later</string>
+    <string name="download_now">Download now</string>
+    <string name="downloading">Package is Downing</string>
+    <string name="sdcard_not_exists">SDCard is not exists, Please mount sdcard then download</string>
+    <string name="dlg_update_package_md5_error_title">Update package verify error</string>
+    <string name="dlg_update_package_md5_error_msg">Your update package is different from package of server</string>
+    <string name="btn_retry_download">Download retry</string>
+    <string name="btn_cancel_download">Do not download now</string>
+    <string name="lewa_rom_title">LewaRom</string>
+    <string name="wifi_not_active">Wifi is not active, please download update zip use wifi</string>
+    <string name="notification_update_succ_title">Congratulations, update success</string>
+    <string name="notification_update_succ_content">Update success,your current version is:</string>
+    <string name="notification_update_error_title">Sorry, update version failure</string>
+    <string name="notification_update_error_content">Update failure，your current version is:</string>
+    <string name="dlg_update_ota_wifi_off_title">Download use data network</string>
+    <string name="dlg_update_ota_wifi_off_msg">Are you sure do not use wifi to download?</string>
+    <string name="dlg_update_package_wifi_off_title">Download use data network</string>
+    <string name="dlg_update_package_wifi_off_msg">Are you sure do not use wifi to download</string>
+    <string name="dlg_reboot_update_complete_title">Upgrade reboot</string>
+    <string name="dlg_reboot_update_complete_msg">Upgrade reboot after confirm</string>
+    <string name="dlg_sdcard_not_remount_title">SDcard is not access</string>
+    <string name="dlg_sdcard_not_remount_msg">Make sure that the card exists, and the phone is not in data transfer mode.</string>
+    <string name="dlg_sdcard_not_memory_title">Storage remind</string>
+    <string name="dlg_sdcard_not_memory_msg">Your SDcard storage space is insufficient！</string>
+    <string name="dlg_delete_all_file_title">Delete ROM package</string>
+    <string name="dlg_delete_all_file_msg">Are you sure delete this ROM package?</string>
+    <string name="btn_confirm">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_continue">Continue</string>
+    <string name="notification_new_version">You have new version, Please click to update</string>
+    <string name="model_not_match">The package you select do not match the model, Please select the other package</string>
+    <string name="version_not_match">The version of the package you select is older, Please select the other package</string>
+    <string name="download_all_new_version">Download new version package:</string>
+    <string name="msg_cannot_ota_update">"The current version is too old, Can not update through OTA, 
+Please download new version package to update, The new version package is too large, 
+Suggest download in wifi state"</string>
+    <string name="net_data_error_pause_download">Net ERROR, Pause download!</string>
+    <string name="notification_net_data_error_pause_download">Net ERROR, Pause download!</string>
+    <string name="notification_user_click_pause_download">Pause download upgrade package</string>
+    <string name="notification_net_data_complete_download">Update package download complete</string>
+    <string name="notification_net_data_complete_download_content">Please Click to reboot your system</string>
+    <string name="dlg_cancel_download_title">Cancel downloading</string>
+    <string name="dlg_cancel_download_msg">Are you sure cancel downloading? Cancel downloading can not resume download</string>
+    <string name="dlg_cotinue_download_title">Download Update package</string>
+    <string name="dlg_cotinue_download_msg">Are you sure do not use wifi to download</string>
+    <string name="push_msg_notification_title">You have new system update</string>
+    <string name="push_msg_notification_msg">The system update version is：</string>
+    <string name="pregress_get_new_version_msg">Getting new version info, Please wait for a moment...</string>
+    <string name="pregress_reboot_phone_title">Reboot for update</string>
+    <string name="pregress_reboot_phone_msg">Is preparing to restart, Please wait for a moment...</string>
+    <string name="stable_version">(Stable version)</string>
+    <string name="dev_version">(Develop version)</string>
+    <string name="menu_download_newest_full">Download lastest full ROM</string>
+    <string name="default_version_summary">Welcome to use LeWa OS</string>
+    <string name="download_progress">0%</string>
+    <string name="tag_v">v</string>
+    <string name="error_can_not_get_update_version">Unable to get update</string>
+    <string name="error_cannot_download_full_package">No full packages can be downloaded</string>
+    <string name="error_webview_no_msg">No message(T_T)</string>
+    <string name="error_http_timeout">Unable to connect to the server, please try again.</string>
+    <string name="tag_new_version">【New】</string>
+    <string name="realize_more">More realize</string>
+    <string name="progress_check_update_msg">Check update,please wait...</string>
+    <string name="progress_check_update_title">Check update</string>
+    <string name="refresh">Refresh</string>
+    <string name="download_ota">Download</string>
+    <string name="download_full_package">Download full package</string>
+    <string name="share">Share</string>
+    <string name="reboot_update">Reboot to update</string>
+    <string name="find_new_version">New version</string>
+    <string name="current_version">Current version</string>
+    <string name="download_full_package_error">Your version is the latest!No need to download full version!</string>
+    <string name="buffering">Buffering</string>
+    <string name="dlg_cancel_update_title">Update cancel</string>
+    <string name="dlg_cancel_update_msg">Cancel previous version update?Easy,file had already store in SD card.</string>
+    <string name="dlg_cancel_update_msg_not_finish">Your previous version not complete download,would you cancel download for new version?</string>
+    <string name="reboot_to_recovery">Reboot to recovery model</string>
+    <string name="reboot_to_recovery_msg">To recovery model need reboot phone,go on?</string>
+    <string name="share_version_info">Share new version information</string>
+    <string name="share_to_sina_weibo">Share to sina weibo</string>
+    <string name="download_sina_weibo">Sina weibo(download)</string>
+    <string name="share_to_tencent_weibo">Share to Tencent weibo</string>
+    <string name="download_tencent_weibo">Tencent weibo(download)</string>
+    <string name="share_to_renren">Share to Renren</string>
+    <string name="download_renren">Renren(download)</string>
+    <string name="share_to_qzone">Share to QZone</string>
+    <string name="download_qzone">QZone(download)</string>
+    <string name="no_share_app_find">Sorry,you had not install share app,you can share after download</string>
+    <string name="share_with_friends">.Share with your friends now！^_^</string>
+    <string name="share_to_weibo_content_start">\#Lewa Updater#Succeed update to</string>
+    <string name="share_to_weibo_content_end">Lewa ROM!Detail visit http://www.lewatek.com</string>
+    <string name="share_to_weibo_content0" formatted="false">\#乐蛙升级#母老鼠怀疑老公有外遇，她跟踪老公到草丛旁。一会一只刺猬钻出来。母老鼠一把拽住刺猬：死鬼，还说没外遇，擦这么多摩丝去勾引谁呀?刺猬大喊：我要去升级乐蛙最新版v%s，更新日志就在这里%s</string>
+    <string name="share_to_weibo_content1" formatted="false">\#乐蛙升级#婚姻“七年之痒”：一年新鲜，二年熟悉，三年乏味，四年思考，五年计划，六年蠢动，七年行动。乐蛙升级到v%s，刷乐蛙年年都像第一年，不信，来看下更新日志吧%s</string>
+    <string name="share_to_weibo_content2" formatted="false">\#乐蛙升级#妈妈叫小明起床∶“快点起来！公鸡都叫好几遍了！” 小明说∶“公鸡叫和我有什么关系？我又不是母鸡！乐蛙刚出了最新版v%s，我昨晚玩到太晚所以起不来，不信你看更新日志%s</string>
+    <string name="share_to_weibo_content3" formatted="false">\#乐蛙升级#男人为女人守一夜，女人为男人守一生。有趣的是，男人等不了，却时常说“等你一辈子”；女人等不起，却等了一辈子。刷了最新版乐蛙v%s，让全天下女人都等你一辈子，快看本期更新日志%s</string>
+    <string name="share_to_weibo_content4" formatted="false">\#乐蛙升级#想要送你跑车，价钱太贵；想要送你美酒，怕你喝醉；想要送你玫瑰，有点浪费；想要送你热吻又怕犯罪；思来想去刷了最新版乐蛙v%s，送上我最诚意的安慰，快看更新日志%s</string>
+    <string name="share_to_weibo_content5" formatted="false">\#乐蛙升级#每次看到那些小孩子谈恋爱，我都会劝导他们：孩子，人生路还很长，你们这个年龄正是读书的时候，等你们和叔叔一样大的时候再谈也不迟啊。听叔叔的话，把她们先让给我们，好吗？我刷了最新版v%s，大家一起刷不怕没妹子，快看更新日志%s</string>
+    <string name="share_to_weibo_content6" formatted="false">\#乐蛙升级#我刚刷了乐蛙最新版v%s，来告诉大家“何谓王道？就是对手不乖，便从他身上碾过。”“何谓霸道？就是乖的，也碾过。”“何谓孔孟之道？就是碾之前先跟他说一声。”，不信就看看更新日志%s</string>
+    <string name="share_to_weibo_content7" formatted="false">\#乐蛙升级#今天刷了最新版乐蛙v%s，懂得一个道理，和妹子相处的要义是：若她涉世未深，就带她看尽人间繁华；若她心已沧桑，就带她坐旋转木马。和阿哥相处的要义是：若他情窦初开，你就宽衣解带；如他阅人无数，你就灶边炉台。更新日志里说明了一切%s</string>
+    <string name="share_to_weibo_content8" formatted="false">\#乐蛙升级#昨去我大爷家吃饭，就大妈在家，看到桌上有俩手机，就指着一部问大妈：“这谁手机？”大妈：“你妹的！”我晕，好吧，这亏吃的，我居然又指着另外一部问：“那这个呢？”大妈：“你大爷的！”我去，这顿饭咋吃啊！赶紧刷乐蛙v%s，更新日志%s</string>
+    <string name="share_to_weibo_content9" formatted="false">\#乐蛙升级#我有一个梦想。一张试卷只有5个填空题，学校____科目____班级____姓名____学号 ____。每空20分，刷了乐蛙v%s，你的梦想就会成真，不信看更新日志%s</string>
+</resources>

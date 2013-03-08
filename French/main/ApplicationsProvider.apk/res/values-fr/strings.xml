@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_label">Recherche Applications fournisseur</string>
+    <string name="search_label">Apps</string>
+    <string name="application_desc">Application</string>
+    <string name="settings_description">Noms des applications installées</string>
+</resources>

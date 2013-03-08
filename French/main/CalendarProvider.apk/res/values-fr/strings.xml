@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="calendar_storage">Stockage calendrier</string>
+    <string name="upgrade_msg">Mettre a jour la database.</string>
+    <string name="calendar_default_name">Defaut</string>
+    <string name="calendar_info">Info calendrier</string>
+    <string name="calendar_info_error">Erreur</string>
+    <string name="calendar_info_no_calendars">Pas de calendrier</string>
+    <string name="calendar_info_events">Evenement: %1$d</string>
+    <string name="calendar_info_events_dirty">Evenement: %1$d, non enregistrés: %2$d</string>
+    <string name="provider_label">Calendrier</string>
+    <string name="debug_tool_delete_button">Supprimer maintenant</string>
+    <string name="debug_tool_start_button">Démarrer</string>
+    <string name="debug_tool_message">Vous êtes sur le point 1) faire une copie de votre base de données calendrier pour la carte sd / usb de stockage qui est lisible par n\'importe quelle application, et 2) l\'envoyer par courriel. N\'oubliez pas de le supprimer dès que vous avez copié avec succès l\'appareil hors tension ou le message est reçu.</string>
+    <string name="debug_tool_email_sender_picker">Sélectionnez un programme pour envoyer votre fichier</string>
+    <string name="debug_tool_email_subject">Calendrier Db attaché</string>
+    <string name="debug_tool_email_body">Ci-joint ma base de données de calendrier avec tous mes rendez-vous et des renseignements personnels. S\'il vous plaît manipuler avec précaution.</string>
+</resources>

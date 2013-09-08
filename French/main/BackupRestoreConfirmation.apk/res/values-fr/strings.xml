@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="backup_confirm_title">Backup complet</string>
-    <string name="restore_confirm_title">Restoration complete</string>
-    <string name="backup_confirm_text">"Une sauvegarde complète de toutes les données à un ordinateur de bureau connecté a été demandé. Voulez-vous permettre que cela arrive?
+    <string name="backup_confirm_title">Sauvegarde complète</string>
+    <string name="restore_confirm_title">Restauration complète</string>
+    <string name="backup_confirm_text">"Sauvegarde complète de toutes les données à un ordinateur de bureau connecté a été demandé. Autoriser cette opération?
 
-Si vous n\'avez pas demandé la sauvegarde vous-même, ne permet pas l\'opération se poursuive."</string>
-    <string name="allow_backup_button_label">Sauvegarder mes data</string>
+Si vous n\'avez pas demandé la sauvegarde, n\'autorisez pas cette opération."</string>
+    <string name="allow_backup_button_label">Sauvegarder mes données</string>
     <string name="deny_backup_button_label">Ne pas sauvegarder</string>
-    <string name="restore_confirm_text">"Une restauration complète de toutes les données à un ordinateur de bureau connecté a été demandé. Voulez-vous permettre que cela arrive?
+    <string name="restore_confirm_text">"Une restauration complète de toutes les données à un ordinateur de bureau connecté a été demandé. Autoriser cette opération?
 
-Si vous n\'avez pas demandé le vous restaurer, ne permettent pas l\'opération se poursuive. Celui-ci remplace toutes les données actuellement sur ​​l\'appareil!"</string>
-    <string name="allow_restore_button_label">Restorer mes data</string>
+Si vous n\'avez pas demandé la restauration, n\'autorisez pas cette opération. Celle-ci remplacera toutes les données actuellement sur l\'appareil!"</string>
+    <string name="allow_restore_button_label">Restaurer mes données</string>
     <string name="deny_restore_button_label">Ne pas restaurer</string>
-    <string name="current_password_text">S\'il vous plaît entrer votre mot de passe de sauvegarde en cours ci-dessous:</string>
-    <string name="device_encryption_restore_text">S\'il vous plaît entrer votre mot de passe ci-dessous le chiffrement du périphérique.</string>
-    <string name="device_encryption_backup_text">S\'il vous plaît entrer votre mot de passe ci-dessous le chiffrement du périphérique. Ce sera également utilisé pour crypter l\'archive de sauvegarde.</string>
-    <string name="backup_enc_password_text">S\'il vous plaît entrer un mot de passe à utiliser pour chiffrer les données de sauvegarde complète. Si cela est laissé en blanc, votre mot de passe de sauvegarde en cours sera utilisé:</string>
-    <string name="backup_enc_password_optional">Si vous souhaitez chiffrer les données de sauvegarde complète, entrez le mot de passe ci-dessous:</string>
-    <string name="restore_enc_password_text">Si les données de restauration est crypté, entrer le mot de passe ci-dessous:</string>
+    <string name="current_password_text">Entrer votre mot de passe de sauvegarde actuel:</string>
+    <string name="device_encryption_restore_text">Entrer votre mot de passe pour le chiffrement du périphérique.</string>
+    <string name="device_encryption_backup_text">Entrer votre mot de passe pour le chiffrement du périphérique. Celui'ci sera également utilisé pour crypter l\'archive de sauvegarde.</string>
+    <string name="backup_enc_password_text">Entrer un mot de passe pour chiffrer les données de sauvegarde complète. Si le champ reste vide, votre mot de passe de sauvegarde actuel sera utilisé:</string>
+    <string name="backup_enc_password_optional">Si vous souhaitez chiffrer les données de sauvegarde complète, entrez le mot de passe:</string>
+    <string name="restore_enc_password_text">Si les données de restauration sont crypté, entrer le mot de passe:</string>
     <string name="toast_backup_started">Démarrage de la sauvegarde...</string>
     <string name="toast_backup_ended">Sauvegarde terminée</string>
     <string name="toast_restore_started">Démarrage de la restauration...</string>
     <string name="toast_restore_ended">Restauration terminée</string>
-    <string name="toast_timeout">Fin du temps autaurisé</string>
+    <string name="toast_timeout">Fin du temps autorisé</string>
 </resources>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_label">Protection de Stockage par DRM</string>
+    <string name="app_label">Protection de stockage par DRM</string>
     <string name="permlab_accessDrm">Accédez au contenu DRM.</string>
-    <string name="permdesc_accessDrm">Permet à une application d\'accéder au contenu protégé par DRM.</string>
+    <string name="permdesc_accessDrm">Permettre à une application d\'accéder à du contenu protégé par DRM.</string>
     <string name="permlab_installDrm">Installer DRM.</string>
-    <string name="permdesc_installDrm">Permet à une application à installer contenu protégé par DRM.</string>
+    <string name="permdesc_installDrm">Permettre à une application d\'installer du contenu protégé par DRM.</string>
 </resources>

@@ -127,16 +127,16 @@
         <item>29</item>
     </string-array>
     <string-array name="dayofweek">
-        <item>MON</item>
-        <item>TUE</item>
-        <item>WED</item>
-        <item>THU</item>
-        <item>FRI</item>
-        <item>STA</item>
-        <item>SUN</item>
+        <item>LUN</item>
+        <item>MAR</item>
+        <item>MER</item>
+        <item>JEU</item>
+        <item>VEN</item>
+        <item>SAM</item>
+        <item>DIM</item>
     </string-array>
     <string-array name="notifilterpopitems">
-        <item>All notifications push for this application</item>
-        <item>View details of this application</item>
+        <item>Autoriser toutes les notifications pour cette app.</item>
+        <item>Voir détails de cette application</item>
     </string-array>
 </resources>

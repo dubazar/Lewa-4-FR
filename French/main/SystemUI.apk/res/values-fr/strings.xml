@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">IU système</string>
+    <string name="app_label">Interface système</string>
     <string name="status_bar_clear_all_button">Effacer</string>
     <string name="status_bar_do_not_disturb_button">Ne pas déranger</string>
     <string name="status_bar_please_disturb_button">Afficher les notifications</string>
@@ -140,14 +140,14 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
     <string name="gemini_default_sim_never">Arrêt</string>
     <string name="gemini_3g_disable_warning">Le service 3G n’est pas disponible avec la carte SIM sélectionnée. Les données peuvent se charger plus lentement. Vous pouvez changer les réglages du service 3G dans Réglages > Sans fil &amp; réseaux > Réseaux portables.</string>
     <string name="gemini_3g_disable_warning_cu">Le service 3G n’est pas disponible avec la carte SIM sélectionnée. Les données peuvent se charger plus lentement. Vous pouvez changer les réglages du service 3G dans Réglages > Gestion SIM.</string>
-    <string name="confirm_radio_title">SIM désactivé</string>
+    <string name="confirm_radio_title">SIM désactivée</string>
     <string name="confirm_radio_msg">%1$s est maintenant désactivée. Souhaitez-vous activer cette carte SIM?</string>
-    <string name="confirm_radio_msg_single">Le mode aéronautique est activé, souhaitez-vous le désactiver?</string>
+    <string name="confirm_radio_msg_single">Le mode avion est activé, souhaitez-vous le désactiver?</string>
     <string name="confirm_radio_lbutton">Activer</string>
     <string name="builtin_installer_title_message">CD-ROM intégré</string>
     <string name="builtin_installer_dlg_message">Allumer le CD-ROM intégré?</string>
     <string name="builtin_installer_always_allowed">Ne plus afficher</string>
     <string name="dlg_no">Non</string>
     <string name="dlg_yes">Oui</string>
-    <string name="data_connection_datach_timeout_error_msg">Echec du détachement de la connexion des données</string>
+    <string name="data_connection_datach_timeout_error_msg">Echec de l'arrêt de la connexion des données</string>
 </resources>
